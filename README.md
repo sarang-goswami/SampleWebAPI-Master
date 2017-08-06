@@ -1,2 +1,2 @@
 # SampleWebAPI-Master
-A simple web api in C# to show a get request
+An example in C# to showcase use of Areas, Web API and LINQ and decorating the methods.
